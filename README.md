@@ -1,1 +1,1 @@
-# hook
+echo "hello"
